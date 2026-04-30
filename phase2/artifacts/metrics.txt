@@ -3,10 +3,10 @@ Features: TF-IDF
 Dataset size: 1200 samples
 
 Performance Metrics:
-Accuracy: 0.91
-Precision: 0.89
-Recall: 0.93
-F1 Score: 0.91
+Accuracy: 0.53
+Precision: 0.76
+Recall: 0.50
+F1 Score: 0.63
 
 Observations:
 - Model performs well on obvious phishing messages.
